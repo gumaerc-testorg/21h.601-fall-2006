@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 2b14a749-706d-26aa-6aba-ae64e94f6812
 resourcetype: Document
 title: map_labels.pdf
 uid: b03a1fb0-d918-0f1e-84f5-c01817d2c1c0

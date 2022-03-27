@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 2b14a749-706d-26aa-6aba-ae64e94f6812
 resourcetype: Document
 title: quiz_population.pdf
 uid: 79bf5c10-95fb-a945-22ef-876019e93428
