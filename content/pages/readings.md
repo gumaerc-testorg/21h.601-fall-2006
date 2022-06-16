@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section contains the readings for the course.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -62,7 +63,7 @@ Middle East, historiographical issues, and geography.
 
 Discussion: Lockman, Zachary. "In the Beginning." In _Contending Visions of the Middle East_. New York, NY: Cambridge University Press, 2004, pp. 7-37. ISBN: 9780521629379.
 
-Discussion Questions ([PDF]({{< baseurl >}}/resources/ses2))
+Discussion Questions ({{% resource_link 3f808faf-969a-1c4c-125f-117980da48f0 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -101,7 +102,7 @@ Berkey, Jonathan. "The Religions of Late Antiquity." In _The Formation of Islam_
 
 Discussion: Maalouf, Amin. _The Crusades Through Arab Eyes_. Prologue pp. xiii-xvi, pp. 3-55, and pp. 59-81.
 
-Discussion Questions ([PDF]({{< baseurl >}}/resources/ses5))
+Discussion Questions ({{% resource_link f853b6e7-d18d-9512-cb1e-9f39b0b9fef4 "PDF" %}})
 
 
 {{< tdclose >}}
