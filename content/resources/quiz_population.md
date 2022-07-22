@@ -5,6 +5,7 @@ file: /courses/21h-601-islam-the-middle-east-and-the-west-fall-2006/79bf5c1095fb
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection

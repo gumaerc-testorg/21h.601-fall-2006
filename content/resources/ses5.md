@@ -5,6 +5,7 @@ file: /courses/21h-601-islam-the-middle-east-and-the-west-fall-2006/f853b6e7d18d
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: ses5.pdf
 uid: f853b6e7-d18d-9512-cb1e-9f39b0b9fef4
 ---
 Reading assignment questions.
-
