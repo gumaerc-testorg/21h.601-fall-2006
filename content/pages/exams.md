@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section contains exam details for the course.
+learning_resource_types:
+- Exams
+ocw_type: CourseSection
 title: Exams
 uid: 2b14a749-706d-26aa-6aba-ae64e94f6812
 ---
@@ -19,8 +23,8 @@ You will have one quiz in the second week of the semester (Ses #5). It will cove
 
 The other quiz will be at the end of the semester during the final exam, covering the same topics as above plus demographic/population data.
 
-*   Final exam map quiz ([PDF]({{< baseurl >}}/resources/quiz_final_map))
-*   Blank answer sheet ([PDF]({{< baseurl >}}/resources/quiz_final))
+*   Final exam map quiz ({{% resource_link 7de1f47f-cc22-347d-add2-1f43e1126dcf "PDF" %}})
+*   Blank answer sheet ({{% resource_link 4466da2f-21bd-c1ad-f9a2-375622edef21 "PDF" %}})
 
 To study for these quizzes, please consult maps from the following Web site:
 

@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: The syllabus contains an overview and list of materials for the course,
+  grading criteria.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 98f043f8-e789-098a-c013-ab5ae1c17430
 ---
@@ -14,11 +18,11 @@ Syllabus Archive
 
 The following syllabi come from a variety of different terms. They illustrate the evolution of this course over time, and are intended to provide alternate views into the instruction of this course.
 
-> Fall 2009, Bedross Der Matossian ([PDF]({{< baseurl >}}/resources/mit21h_601f06_syllf09))
+> Fall 2009, Bedross Der Matossian ({{% resource_link 93978ff5-e468-396a-6407-63709fcdc0d7 "PDF" %}})
 > 
-> Fall 2008, Bedross Der Matossian ([PDF]({{< baseurl >}}/resources/mit21h_601f06_syllf08))
+> Fall 2008, Bedross Der Matossian ({{% resource_link f87fb0bb-308b-4c98-8399-d55a6c7286a1 "PDF" %}})
 > 
-> Fall 2006, Mériam Belli ([PDF]({{< baseurl >}}/resources/mit21h_601f06_syllf06))
+> Fall 2006, Mériam Belli ({{% resource_link 76b819db-18cf-65be-ce99-5d30c0839d9e "PDF" %}})
 
 Introduction
 ------------
@@ -105,7 +109,7 @@ Two Map Quizzes
 
 {{< tableclose >}}
 
-For detailed descriptions of the above, please visit [assignments]({{< baseurl >}}/pages/assignments) and [exams]({{< baseurl >}}/pages/exams).
+For detailed descriptions of the above, please visit {{% resource_link 187c9861-7842-c220-1360-6fb337f44a47 "assignments" %}} and {{% resource_link 2b14a749-706d-26aa-6aba-ae64e94f6812 "exams" %}}.
 
 Oral Participation in Class
 ---------------------------

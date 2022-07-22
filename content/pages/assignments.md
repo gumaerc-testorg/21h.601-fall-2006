@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: Problems to test students' understanding of course material.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 187c9861-7842-c220-1360-6fb337f44a47
 ---
