@@ -4,6 +4,7 @@ description: 'This resource contains information about course description, requi
   text and introduction and overview: where is the middle east and why we study the
   middle east?'
 file: /courses/21h-601-islam-the-middle-east-and-the-west-fall-2006/f87fb0bb308b4c988399d55a6c7286a1_MIT21H_601f06_syllf08.pdf
+file_size: 85232
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

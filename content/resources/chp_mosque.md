@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/21h-601-islam-the-middle-east-and-the-west-fall-2006/ee1b0e399997672f08a3c60adeabb201_chp_mosque.jpg
+file_size: 57484
 file_type: image/jpeg
 image_metadata:
   caption: ''
