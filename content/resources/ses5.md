@@ -2,6 +2,7 @@
 content_type: resource
 description: Reading assignment questions.
 file: /courses/21h-601-islam-the-middle-east-and-the-west-fall-2006/f853b6e7d18d9512cb1e9f39b0b9fef4_ses5.pdf
+file_size: 18715
 file_type: application/pdf
 learning_resource_types:
 - Readings
