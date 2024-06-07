@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/21h-601-islam-the-middle-east-and-the-west-fall-2006/07366496a02f976d23835ce212cc49d8_map_blank.pdf
+file_size: 1304022
 file_type: application/pdf
 learning_resource_types:
 - Exams

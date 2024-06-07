@@ -2,6 +2,7 @@
 content_type: resource
 description: Exam handout.
 file: /courses/21h-601-islam-the-middle-east-and-the-west-fall-2006/7de1f47fcc22347dadd21f43e1126dcf_quiz_final_map.pdf
+file_size: 202759
 file_type: application/pdf
 learning_resource_types:
 - Exams
