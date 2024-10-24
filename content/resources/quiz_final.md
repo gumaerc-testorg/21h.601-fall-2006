@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Exam sheet.
-file: /courses/21h-601-islam-the-middle-east-and-the-west-fall-2006/4466da2f21bdc1adf9a2375622edef21_quiz_final.pdf
+file: /ol-ocw-studio-app/courses/21h-601-islam-the-middle-east-and-the-west-fall-2006/4466da2f21bdc1adf9a2375622edef21_quiz_final.pdf
 file_size: 24568
 file_type: application/pdf
 learning_resource_types:
