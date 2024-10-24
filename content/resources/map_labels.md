@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/21h-601-islam-the-middle-east-and-the-west-fall-2006/b03a1fb0d9180f1e84f5c01817d2c1c0_map_labels.pdf
+file: /ol-ocw-studio-app/courses/21h-601-islam-the-middle-east-and-the-west-fall-2006/b03a1fb0d9180f1e84f5c01817d2c1c0_map_labels.pdf
 file_size: 1372168
 file_type: application/pdf
 learning_resource_types:
