@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/21h-601-islam-the-middle-east-and-the-west-fall-2006/79bf5c1095fba94522ef876019e93428_quiz_population.pdf
+file: /courses/21h-601-islam-the-middle-east-and-the-west-fall-2006/79bf5c1095fba94522ef876019e93428_quiz_population.pdf
 file_size: 14479
 file_type: application/pdf
 learning_resource_types:

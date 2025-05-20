@@ -5,7 +5,7 @@ description: This resource contains information about aims to provide students w
   rise of Islam to the present, with an emphasis on the encounters and exchanges between
   the ?Middle East? (Southwest Asia and North Africa) and the ?West? (Europe and the
   United States).
-file: /ol-ocw-studio-app/courses/21h-601-islam-the-middle-east-and-the-west-fall-2006/76b819db18cf65bece995d30c0839d9e_MIT21H_601f06_syllf06.pdf
+file: /courses/21h-601-islam-the-middle-east-and-the-west-fall-2006/76b819db18cf65bece995d30c0839d9e_MIT21H_601f06_syllf06.pdf
 file_size: 208573
 file_type: application/pdf
 learning_resource_types: []
