@@ -243,7 +243,7 @@ Ayalon, David. "The Historian al-Jabarti and his Background." _Bulletin of the S
 
 Al-Jabarti, Sheik. _Napoleon in Egypt: Al-Jabarti's Chronicle of the French Occupation, 1798_. Translated by Schmuel Moreh. Princeton, NJ: Markus Wiener Publishing, Inc., 1993. Selection (13 pages). ISBN: 9781558760707.
 
-Film: Selections from Chahine, Youssef. [_Adieu, Bonaparte!_](http://www.imdb.com/title/tt0088383/) Egypt/France, 1985.
+Film: Selections from Chahine, Youssef. {{% resource_link "53c209cc-1243-4003-88ad-c0df625550e1" "_Adieu, Bonaparte!_" %}} Egypt/France, 1985.
 
 
 {{< tdclose >}}
@@ -392,9 +392,9 @@ Salih, Tayeb. _Season of Migration to the North_. pp. 1-69.
 {{< tdopen >}}
 
 
-Films: Selections from Chahine, Youssef. [_Salah al-Din the Victorious_](http://imdb.com/title/tt0057357/). Egypt, 1964. or,
+Films: Selections from Chahine, Youssef. {{% resource_link "91931705-833f-40df-ab71-5b23e8f0d042" "_Salah al-Din the Victorious_" %}}. Egypt, 1964. or,
 
-Fadel, Mohamed. [_Nasser 56_](http://imdb.com/title/tt0289355/). Egypt, 1996.
+Fadel, Mohamed. {{% resource_link "96e57500-bcc3-44fe-b5eb-366c194f98b0" "_Nasser 56_" %}}. Egypt, 1996.
 
 
 {{< tdclose >}}
@@ -482,7 +482,7 @@ Huntington, Samuel P. "The Clash of Civilizations." _Foreign Affairs_ 72, no. 3 
 
 Goody, Jack. "Islam and Terrorism," and "The Taliban, the Bamiyan and Us." Chapters 3 and 4 in _Islam in Europe_. pp. 146-160 and 133-145.
 
-Film: Frei, Christian. [_The Giant Buddhas_](http://www.giant-buddhas.com/en/synopsis/). 2005.
+Film: Frei, Christian. {{% resource_link "30408b85-d764-4e05-8665-10e30eb863e5" "_The Giant Buddhas_" %}}. 2005.
 
 
 {{< tdclose >}}

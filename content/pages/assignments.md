@@ -32,7 +32,7 @@ Topic: Amin Maalouf's _The Crusades Through Arab Eyes_ (1982)
 
 This paper should include (in addition to the 5-7 p. essay per se) a cover page (with your name, title of the course, and title of the paper), a proper bibliography (Chicago Manual of Style), and footnotes.
 
-See [Chicago/Turabian Documentation](https://writing.wisc.edu/handbook/documentation/docchicago/); (at the Writing Center of the University of Wisconsin-Madison) for Chicago Manual Style references.
+See {{% resource_link "236258f1-e40d-4e85-85ef-62d5fb0aa5bb" "Chicago/Turabian Documentation" %}}; (at the Writing Center of the University of Wisconsin-Madison) for Chicago Manual Style references.
 
 Please make sure to introduce the author and to briefly situate The Crusades within the larger framework of the author's writings, as well as within the broader historical context in which the book was written.
 
