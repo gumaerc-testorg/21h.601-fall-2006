@@ -28,7 +28,7 @@ The other quiz will be at the end of the semester during the final exam, coverin
 
 To study for these quizzes, please consult maps from the following Web site:
 
-{{% resource_link "e288f616-788d-4fe8-848d-774be80c672a" "Middle East Maps" %}} from the Perry-Castañeda Library Map Collection at the University of Texas at Austin.
+[Middle East Maps](http://www.lib.utexas.edu/maps/middle_east.html) from the Perry-Castañeda Library Map Collection at the University of Texas at Austin.
 
 Final Exam
 ----------
@@ -43,7 +43,7 @@ Based both on readings and lectures, please discuss one of the following:
 
 "Most esteemed Fathers, I have read in the ancient writings of the Arabians that Abdallah the Saracen on being asked what, on this stage, so to say, of the world, seemed to him most evocative of wonder, replied that there was nothing to be seen more marvelous than man."
 
-Thus spoke Giovanni Pico della Mirandola, author of the "manifesto of the Renaissance man." Yet according to some scholars, the notions of "East" and "West" that we are familiar with today, and a sense of division between Europe and the rest of the world, started emerging during what has come to be called the Renaissance. Using the painting by Hans Holbein, {{% resource_link "b1a81488-afd4-4a72-b918-c673e719217f" "The Ambassadors" %}} (1533), as a starting point, please discuss:
+Thus spoke Giovanni Pico della Mirandola, author of the "manifesto of the Renaissance man." Yet according to some scholars, the notions of "East" and "West" that we are familiar with today, and a sense of division between Europe and the rest of the world, started emerging during what has come to be called the Renaissance. Using the painting by Hans Holbein, [The Ambassadors](https://www.nationalgallery.org.uk/paintings/hans-holbein-the-younger-the-ambassadors) (1533), as a starting point, please discuss:
 
 1.  the economic, political, and cultural developments that contributed to European self-awareness;
 2.  the relationship between Europe and the East of the Mediterranean and North Africa between the 15th and the 17th century; and
